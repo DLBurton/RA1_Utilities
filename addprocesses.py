@@ -1,12 +1,5 @@
 #!/usr/bin/env python
 
-# jadd: like hadd, but for log files (JSON)
-#
-# usage: ./jadd.py out.log in_1.log in_2.log
-# or   : ./jadd.py out.log in_*
-#
-# Robin Nandi, 30 October 2010
-
 import os
 import sys
 import json
